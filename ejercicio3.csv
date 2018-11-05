@@ -1,0 +1,20 @@
+Comercio;Articulo;Precio;Zona;Salario
+Mercadona;agua;0.35;norte;660
+Mercadona;agua;0.40;zaidin;700
+Carrefour;pasta;0.45;chana;700
+Supermercados dani;azucar;0.36;norte;660
+coviran;arroz;0.62;centro;980
+Mercadona;arroz;0.79;norte;600
+alcampo;pasta;0.52;chana;700
+carrefour;leche;0.84;zaidin;700
+coviran;pasta;0.55;maracena;730
+supermercados dani;arroz;0.62;norte;660
+alcampo;azucar;0.87;centro;980
+coviran;leche;0.98;zaidin;700
+carrefour;agua;0.29;maracena;730
+Supermercados dani;leche;0.64;chana;700
+Mercadona;leche;0.87;maracena;730
+alcampo;huevos;0.92;chana;700
+Carrefour;huevos;0.84;norte;660
+coviran;azucar;0.58;zaidin;700
+Supermercados dani;huevos;0.68;centro;980
